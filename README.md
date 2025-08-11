@@ -30,6 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=lamelo05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lamelo05&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamelo05&layout=compact&theme=tokyonight)
+
 </p>
 
 ---
