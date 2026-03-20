@@ -47,7 +47,7 @@
 ### 📫 How to Reach Me  
 - 📧 **Email:** amegahray@icloud.com | ramegah84@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/raymond-amegah](#)  
-- 🐦 **Twitter (X):** [twitter.com/yourhandle](#)  
+
 
 ---
 
