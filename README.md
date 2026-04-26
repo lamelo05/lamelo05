@@ -41,7 +41,7 @@
 - [Personal Portfolio Website](#) – A modern portfolio showcasing my skills, projects, and contact info.  
 - [ML Beginner Project](#) – Python project applying basic ML algorithms to real-world datasets.  
 - [Furniture Stock Management App](#) – Python CLI app for inventory management.
-- [Sensitive Content Blocker](lamelo05/github/Sensitive Content Blocker)-javascript AI embedded content blocker specially to prevent addiction 
+- [Sensitive Content Blocker](#)-javascript AI embedded content blocker specially to prevent addiction 
 
 ---
 
