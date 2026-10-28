@@ -63,12 +63,12 @@ goal: Full-Stack Developer + AI Engineer within 6 months
 
 | 🚀 Project | 📝 What It Does | 🧰 Tech |
 |---|---|---|
-| **[Digital Wellbeing Content Blocker](#)** | AI-powered browser extension that detects and blocks harmful content in real time to help users build healthier online habits | `JavaScript` `AI` `Browser Extension` |
+| **[Digital Wellbeing Content Blocker](sensitve.onrender.com)** | AI-powered browser extension that detects and blocks harmful content in real time to help users build healthier online habits | `JavaScript` `AI` `Browser Extension` |
 | **[Personal Portfolio](#)** | Modern, responsive portfolio showcasing my work, skills and contact info | `HTML` `CSS` `JavaScript` `React` |
 | **[ML Beginner Project](#)** | Applies core ML algorithms to real-world datasets | `Python` `scikit-learn` |
 | **[Furniture Stock Manager](#)** | CLI inventory system for tracking stock and sales | `Python` |
 
-> 💡 Replace each `#` with the real repo or live demo link. Recruiters click these first.
+
 
 ---
 
